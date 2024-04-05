@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bar Charts</string>
+    <string name="Title">Bar Charts</string>
+    <string name="Total">Total number of students</string>
+    <string name="A">A students</string>
+    <string name="B">B students</string>
+    <string name="C">C students</string>
+    <string name="D">D students</string>
+    <string name="F">F students</string>
+    <string name="Button">Compute</string>
+    <string name="btnPlot">Construct Bar Charts</string>
+    <string name="dialog_title">Distribution of Grades</string>
+    <string name="lblPopUpMsg">Grade distribution percentages are:</string>
+    <string name="bclblA">A%</string>
+    <string name="bclblB">B%</string>
+    <string name="bclblC">C%</string>
+    <string name="bclblD">D%</string>
+    <string name="bclblF">F%</string>
+</resources>
